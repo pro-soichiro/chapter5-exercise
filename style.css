@@ -38,8 +38,11 @@ li.list-item {
   display: flex;
   width: 800px;
   flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 50px 0;
+
+  /* margin: 0 auto; */
+  /* padding: 50px 0; */
+
+  margin: 50px auto;
 }
 
 .panels div{
